@@ -4,6 +4,7 @@ I'm Maulanafred, a passionate game developer and programmer. Welcome to my GitHu
 🔭 I’m currently working on...
 A magic-themed game where a magical girl is lost in a forest
 Enhancing game mechanics in Unity, including custom VFX, enemy AI, and a dynamic scoring system
+
 🌱 I’m currently learning...
 Advanced Unity features like 3D audio and graphics quality settings
 Blender for creating stunning 3D models and animations
