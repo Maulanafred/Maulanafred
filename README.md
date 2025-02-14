@@ -2,7 +2,6 @@ Hi there 👋
 I'm Maulanafred, a passionate game developer and programmer. Welcome to my GitHub profile!
 
 🔭 I’m currently working on...
-A magic-themed game where a magical girl is lost in a forest
 Enhancing game mechanics in Unity, including UI/UX Implements, dynamic scoring system
 
 🌱 I’m currently learning...
