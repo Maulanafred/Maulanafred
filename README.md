@@ -3,7 +3,7 @@ I'm Maulanafred, a passionate game developer and programmer. Welcome to my GitHu
 
 🔭 I’m currently working on...
 A magic-themed game where a magical girl is lost in a forest
-Enhancing game mechanics in Unity, including custom VFX, enemy AI, and a dynamic scoring system
+Enhancing game mechanics in Unity, including UI/UX Implements, dynamic scoring system
 
 🌱 I’m currently learning...
 Advanced Unity features like 3D audio and graphics quality settings
@@ -13,14 +13,11 @@ Game development projects
 Open-source tools for game developers
 🤔 I’m looking for help with...
 Improving the efficiency and performance of my Unity games
-Integrating more complex AI behavior into my games
 💬 Ask me about...
-Game development in Unity and Construct 2
+Game development in Unity 
 Implementing engaging and interactive UI/UX for games
 📫 How to reach me:
-Email
-LinkedIn
-Twitter
+Youtube : Maulana Fred
 😄 Pronouns:
 He/Him
 
